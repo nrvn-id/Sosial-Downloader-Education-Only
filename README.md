@@ -37,5 +37,7 @@ Ensure you have FFmpeg installed on your system as it is required for the Mute a
   python all_in_one_downloader_hd_mute.py
 
 Screenshot after compile:
+
+
 <img width="647" height="823" alt="image" src="https://github.com/user-attachments/assets/f7e5b12b-83b9-481b-ac5f-113ac51c1921" />
 
